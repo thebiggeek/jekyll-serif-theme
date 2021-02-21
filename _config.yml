@@ -1,7 +1,7 @@
 baseurl: ''
 exclude: ['README.md']
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'SproutBox CoWorking Spaces'
 
 google_analytics_id: ""
 homepage:
@@ -11,17 +11,17 @@ logo:
   desktop: "images/logo/logo.svg"
   desktop_height: "36px"
 footer:
-  copyright_text: 'Free Jekyll theme by <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>'
+  copyright_text: '© Copyright - Glisco Advisors LLP [CIN: AAD-9334] | Phone: +91.93192.11228 | Email: care@sproutbox.in | A System 3 Group Company'
 
 seo:
-  meta_og_title: "Jekyll Serif Theme"
+  meta_og_title: "SproutBox CoWorking Spaces"
   meta_og_type: "website"
-  meta_og_url: "https://jekyll-serif-theme.netlify.app"
+  meta_og_url: "https://sproutbox.in"
   meta_og_image: "https://raw.githubusercontent.com/zerostaticthemes/jekyll-serif-theme/master/screenshots/tn.png"
-  meta_og_description: "Jekyll Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
+  meta_og_description: "SproutBox CoWorking Spaces are the right place to grow and scale your business, with on-demand office space, services backed agreements, and a proven service provider. SproutBox is your partner if you need an office space on demand"
   meta_twitter_card: "summary"
-  meta_twitter_site: "@zerostaticio"
-  meta_twitter_creator: "@zerostaticio"
+  meta_twitter_site: "@sproutboxin"
+  meta_twitter_creator: "@sproutboxin"
 
 collections:
   services:
