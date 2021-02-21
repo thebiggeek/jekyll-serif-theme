@@ -82,6 +82,13 @@ models:
         name: collections
         fields:
           - type: object
+            name: locations
+            fields:
+              - type: boolean
+                name: output
+              - type: string
+                name: permalink
+          - type: object
             name: services
             fields:
               - type: boolean

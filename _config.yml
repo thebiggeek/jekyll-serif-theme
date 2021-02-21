@@ -24,6 +24,8 @@ seo:
   meta_twitter_creator: "@sproutboxin"
 
 collections:
+  locations:
+      output: true
   services:
     output: true
   team:
